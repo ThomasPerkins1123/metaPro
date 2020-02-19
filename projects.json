@@ -1,0 +1,1 @@
+{"java-demo": {"sshLink": "git@github.com:diffblue/java-demo.git", "buildSystem": "maven", "buildCommands": ["mvn clean compile"]}, "Jxnu-liguobin-cs-summary-reflection": {"sshLink": "git@github.com:Diffblue-benchmarks/Jxnu-liguobin-cs-summary-reflection.git", "buildSystem": "gradle", "buildCommands": ["gradle clean", " gradle build"]}}
